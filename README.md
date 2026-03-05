@@ -37,14 +37,14 @@ This repository focuses on an end-to-end notebook workflow:
 
 ## Quick Start
 
-### 1) Clone
+### 1) Clone and enter the project
 
 ```bash
 git clone <your-repo-url>
 cd STEALTH_Predictive_Analytics_Forecasts
 ```
 
-### 2) Create environment
+### 2) Create a virtual environment
 
 ```bash
 python -m venv .venv
@@ -65,7 +65,7 @@ Optional (for LSTM cells):
 pip install -r requirements-optional.txt
 ```
 
-### 4) Run notebook
+### 4) Run the notebook
 
 ```bash
 jupyter notebook TASK_1000_—_Predictive_Analytics_Forecasts.ipynb
@@ -79,9 +79,15 @@ jupyter notebook TASK_1000_—_Predictive_Analytics_Forecasts.ipynb
 
 ## Main Deliverables
 
-- `TASK_1000_—_Predictive_Analytics_Forecasts.ipynb`: full workflow.
-- `STEALTH_Predictive_Analytics_Forecasts.pdf`: report-style output.
-- `STEALTH_Predictive_Analytics_Forecasts.pptx`: presentation slides.
+- `TASK_1000_—_Predictive_Analytics_Forecasts.ipynb`: **Notebook**: complete analysis and forecasting workflow.
+- `STEALTH_Predictive_Analytics_Forecasts.pdf`: **PDF**: presentation/report version.
+- `STEALTH_Predictive_Analytics_Forecasts.pptx`: **PPTX**: slide deck summary.
+
+## Suggested GitHub Usage
+
+- Use issues for bugs and feature ideas.
+- Use pull requests for all code/documentation changes.
+- Keep notebook outputs minimal when possible (clear heavy outputs before commit).
 
 ## License
 

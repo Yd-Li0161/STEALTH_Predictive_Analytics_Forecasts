@@ -1,4 +1,3 @@
-# Core dependencies for the notebook workflow
 yfinance
 pandas
 numpy
