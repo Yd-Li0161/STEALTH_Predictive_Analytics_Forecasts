@@ -1,0 +1,3 @@
+# Optional dependencies for advanced sections
+# Used by LSTM-related cells in the notebook
+tensorflow
