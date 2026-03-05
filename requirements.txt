@@ -1,0 +1,9 @@
+# Core dependencies for the notebook workflow
+yfinance
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+arch
+jupyter
